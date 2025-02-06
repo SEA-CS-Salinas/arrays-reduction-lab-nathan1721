@@ -1,3 +1,6 @@
+//- Name - Nathan Carrillo
+
+
 import java.util.PriorityQueue;
 
 public class ArrayReduction {
